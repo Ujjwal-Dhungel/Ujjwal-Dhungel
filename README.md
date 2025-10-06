@@ -48,12 +48,38 @@
 
 <div align="center">
   <h2>🐍 My Contributions 🐍</h2>
-
+<br>
 
 ![GitHub Snake Light](https://github.com/Ujjwal-Dhungel/Ujjwal-Dhungel/blob/output/snake.svg#gh-light-mode-only)
 ![GitHub Snake Dark](https://github.com/Ujjwal-Dhungel/Ujjwal-Dhungel/blob/output/snake-dark.svg#gh-dark-mode-only)
 
+<br/><br/><br/>
+</div>
 
+<hr/>
+
+<h2 align="center">⚡ Stats ⚡</h2>
+<br>
+<div align="center">
+
+
+
+<img width="390" src="https://github-readme-stats.vercel.app/api?username=Ujjwal-Dhungel&count_private=true&show_icons=true&theme=react&rank_icon=github&border_radius=10" alt="readme stats" />
+
+<br/>
+
+<img width="325" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ujjwal-Dhungel&hide=HTML&langs_count=5&layout=compact&theme=react&border_radius=10&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats" alt="top langs" />
+
+</div>
+
+<br/><br>
+<hr/>
+
+<h3 align="center">
+    <a href="https://git.io/typing-svg">
+        <img src="https://readme-typing-svg.herokuapp.com/?font=Highway+Gothic&size=25&center=true&color=00F7FF&width=500&height=70&duration=4000&lines=Thanks+for+visiting!;Feel+free+to+connect+on+LinkedIn!" alt="Typing SVG" />
+    </a>
+</h3>
 
 
 
