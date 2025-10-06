@@ -50,7 +50,8 @@
   <h2>🐍 My Contributions 🐍</h2>
 
 
-![GitHub Snake Light](https://github.com/Ujjwal-Dhungel/Ujjwal-Dhungel/blob/output/snake.svg)
+![GitHub Snake Light](https://github.com/Ujjwal-Dhungel/Ujjwal-Dhungel/blob/output/snake.svg#gh-light-mode-only)
+![GitHub Snake Dark](https://github.com/Ujjwal-Dhungel/Ujjwal-Dhungel/blob/output/snake-dark.svg#gh-dark-mode-only)
 
 
 
